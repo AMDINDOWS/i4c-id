@@ -2,7 +2,9 @@ THE FEEDBACK SYSTEM REQUIRE XAMMP TO RUN < PLEASE DOWNLOAD AND INSTALL >
 
 UNZIP 
 
-copy the whole file in htdocs in c drive , and import the sql
+copy the whole file in htdocs in c drive , and import the sql,
+
+also use the same db name as yours
 
 THIS PROJECT WAS DESIGNED IN SMART INDIA HACKATHON 2018.
 BY TEAM ENCRYPTERS
